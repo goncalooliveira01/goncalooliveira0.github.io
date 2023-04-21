@@ -1,0 +1,16 @@
+      <nav id="navbar" class="navbar">
+        <ul>
+          <li><a href="index.html" class="active">Ínicio</a></li>
+          <li><a href="about.html">Sobre</a></li>
+          <li class="dropdown"><a href="#"><span>Galeria</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
+            <ul>
+              <li><a href="gallery.html">Trollagens</a></li>
+              <li><a href="gallery1.html">Cabelos</a></li>
+              <li><a href="gallery2.html">Pokemon GO</a></li>
+              <li><a href="gallery3.html">Casa YT</a></li>
+              <li><a href="gallery4.html">Minecraft</a></li>
+            </ul>
+          </li>
+          <li><a href="services.html">Serviços</a></li>
+        </ul>
+      </nav>
